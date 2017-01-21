@@ -34,3 +34,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+www/hardcode/deep/deep.css
+
+www/hardcode/deep/index.html
